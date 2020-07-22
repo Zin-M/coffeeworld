@@ -1,0 +1,134 @@
+#nav{
+	margin: 0;
+	padding: 0;
+	font-family: all;
+}
+div#nav div.nav_left img{
+	with:60px;
+	height: 60px;
+	vertical-align: bottom;
+}
+div#nav div.nav_left h1{
+	font-family: logo;
+	display: inline-block;
+	margin: 0 10px;
+	vertical-align: bottom;
+}
+div#nav div.nav_right{
+	float:right;
+	
+
+
+}
+div#nav div.nav_right a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	padding: 8px 10px;
+	color:black;
+
+
+}
+a.active{
+	color:#fff !important;
+	background-color: #080808;
+	border-radius: 15px 0px 15px;
+}
+.clear{
+	clear: both;
+}
+div#banner img{
+	width: 100%;
+	height: 550px;
+	object-fit: cover;
+}
+
+div#banner i{
+	font-size: 130px;
+	color: #ddaa20;
+	position: absolute;
+	top:30%;
+	left: 47%;
+}
+div.quote{
+	font-family: unicode;
+	background-color: rgb(255,255,255,0.5);
+	font-size: 30px;
+	position: absolute;
+	top: 50%;
+	left: 5%;
+	padding: 30px;
+
+}
+h2{
+	color: yellow;
+	text-align: center;
+}
+div.p{
+	text-align: center;
+	margin-top: 50px;
+	font-family: sans-serif;
+}
+.offer img{
+	width: 200px;
+	height: 200px;
+}
+.font{
+		font-family: Arial, Helvetica, sans-serif;
+
+}
+.offer{
+	display: flex;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+div .offer1{
+	width: 30%;
+	height: auto;
+	padding: 10px;
+}
+.shop{
+	display: flex;
+	padding: 10px;
+	
+	
+}
+.shop1{
+	margin-right: 15%;
+}
+ div.special{
+	display: flex;
+	padding-right: 10px;
+
+	
+}
+
+div.special2{
+
+	margin-left: 10%;
+
+	
+}
+
+div.special3{
+	
+	display:flex;
+
+	flex-grow: 50px;
+	
+}
+.special3 img{
+	margin: 30px;
+}
+
+div.menu{
+	display: flex;
+	margin-top: 60px;
+}
+
+div.menu2{
+	margin-left: 10%;
+}
+
+
